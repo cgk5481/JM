@@ -1,2 +1,1 @@
-# JM
-magisk
+#shell
